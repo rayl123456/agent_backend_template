@@ -1,4 +1,4 @@
-﻿# agent_backend_template
+# agent\_backend\_template
 
 ## 项目定位
 
@@ -6,20 +6,23 @@
 
 ## 第一阶段目标
 
-- 搭建 FastAPI 后端工程结构
-- 实现文件上传接口
-- 接入 SQLite / PostgreSQL 数据库
-- 实现 Vue3 前端上传页面
-- 使用 Docker Compose 一键启动后端、前端和数据库
+* 搭建 FastAPI 后端工程结构
+* 实现文件上传接口
+* 接入 SQLite / PostgreSQL 数据库
+* 实现 Vue3 前端上传页面
+* 使用 Docker Compose 一键启动后端、前端和数据库
 
 ## 当前进度
 
-- [x] 创建项目仓库
-- [x] 创建 backend / frontend / docs 目录
-- [x] 创建 Python 虚拟环境
-- [x] 初始化 Git
-- [ ] FastAPI 后端最小服务
-- [ ] 文件上传接口
-- [ ] 数据库 CRUD
-- [ ] Vue3 前端页面
-- [ ] Docker Compose 一键启动
+* \[x] 创建项目仓库
+* \[x] 创建 backend / frontend / docs 目录
+* \[x] 创建 Python 虚拟环境
+* \[x] 初始化 Git
+* \[x] 定义 User / Document / Task 三个基础业务对象
+* \[x] 学习 Python 函数、类、类型注解和 dataclass
+* \[ ] FastAPI 后端最小服务
+* \[ ] 文件上传接口
+* \[ ] 数据库 CRUD
+* \[ ] Vue3 前端页面
+* \[ ] Docker Compose 一键启动
+
