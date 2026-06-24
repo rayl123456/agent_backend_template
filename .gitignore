@@ -1,5 +1,5 @@
 .venv/
-__pycache__/
+pycache/
 *.pyc
 .env
 .env.local
@@ -7,4 +7,6 @@ __pycache__/
 node_modules/
 dist/
 uploads/
+data/uploads/
+logs/
 *.log
